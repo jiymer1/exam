@@ -1,2 +1,0 @@
-# exam
-javaScript测试
